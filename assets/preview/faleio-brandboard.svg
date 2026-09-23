@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Brandboard Faleio">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="1000">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0D1726"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#4F7CFF"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="1450" cy="80" r="280" fill="#4F7CFF" opacity=".06"/>
+  <circle cx="1320" cy="940" r="320" fill="#22D3EE" opacity=".045"/>
+
+  <text x="110" y="120" fill="#94A3B8" font-family="Poppins,Arial,sans-serif" font-size="24" font-weight="600" letter-spacing="5">FALEIO · BRAND SYSTEM</text>
+
+  <g transform="translate(105 185) scale(1.45)">
+    <path d="M28 24h104c8.8 0 16 7.2 16 16v70c0 8.8-7.2 16-16 16H83l-31 22v-22H28c-8.8 0-16-7.2-16-16V40c0-8.8 7.2-16 16-16Z" fill="url(#brand)"/>
+    <path d="M47 52h52c7.7 0 14 6.3 14 14v2H66v13h38v16H66v23H47V52Z" fill="#F8FAFC"/>
+    <circle cx="124" cy="65" r="8" fill="#07111F"/>
+    <circle cx="124" cy="92" r="8" fill="#F8FAFC"/>
+  </g>
+
+  <text x="390" y="330" fill="#F8FAFC" font-family="Poppins,Arial,sans-serif" font-size="150" font-weight="700" letter-spacing="-8">
+    fale<tspan fill="#4F7CFF">io</tspan>
+  </text>
+  <circle cx="914" cy="227" r="14" fill="#22D3EE"/>
+  <text x="398" y="395" fill="#94A3B8" font-family="Poppins,Arial,sans-serif" font-size="30" font-weight="500" letter-spacing="2">
+    CONVERSAS QUE CONECTAM NEGÓCIOS.
+  </text>
+
+  <text x="110" y="555" fill="#F8FAFC" font-family="Poppins,Arial,sans-serif" font-size="34" font-weight="700">Paleta principal</text>
+
+  <g font-family="Poppins,Arial,sans-serif" font-size="22" font-weight="600">
+    <rect x="110" y="605" width="245" height="150" rx="22" fill="#4F7CFF"/>
+    <text x="135" y="705" fill="#F8FAFC">Azul Faleio</text>
+    <text x="135" y="735" fill="#F8FAFC" opacity=".8">#4F7CFF</text>
+
+    <rect x="380" y="605" width="245" height="150" rx="22" fill="#22D3EE"/>
+    <text x="405" y="705" fill="#07111F">Ciano Conexão</text>
+    <text x="405" y="735" fill="#07111F" opacity=".75">#22D3EE</text>
+
+    <rect x="650" y="605" width="245" height="150" rx="22" fill="#142033" stroke="#26364D"/>
+    <text x="675" y="705" fill="#F8FAFC">Surface</text>
+    <text x="675" y="735" fill="#94A3B8">#142033</text>
+
+    <rect x="920" y="605" width="245" height="150" rx="22" fill="#F8FAFC"/>
+    <text x="945" y="705" fill="#07111F">White</text>
+    <text x="945" y="735" fill="#64748B">#F8FAFC</text>
+  </g>
+
+  <rect x="1210" y="605" width="260" height="260" rx="42" fill="#142033" stroke="#26364D"/>
+  <g transform="translate(1255 650) scale(1.4)">
+    <path d="M28 24h104c8.8 0 16 7.2 16 16v70c0 8.8-7.2 16-16 16H83l-31 22v-22H28c-8.8 0-16-7.2-16-16V40c0-8.8 7.2-16 16-16Z" fill="url(#brand)"/>
+    <path d="M47 52h52c7.7 0 14 6.3 14 14v2H66v13h38v16H66v23H47V52Z" fill="#F8FAFC"/>
+    <circle cx="124" cy="65" r="8" fill="#07111F"/>
+    <circle cx="124" cy="92" r="8" fill="#F8FAFC"/>
+  </g>
+
+  <text x="110" y="885" fill="#94A3B8" font-family="Poppins,Arial,sans-serif" font-size="24">
+    Tecnologia próxima. Comunicação centralizada. Identidade própria.
+  </text>
+  <text x="110" y="930" fill="#64748B" font-family="Poppins,Arial,sans-serif" font-size="20">
+    Powered by scali.dev
+  </text>
+</svg>
