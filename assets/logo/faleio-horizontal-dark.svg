@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 180" role="img" aria-label="Faleio">
+  <defs>
+    <linearGradient id="faleioGradient" x1="16" y1="20" x2="148" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F7CFF"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(8 10)">
+    <path d="M28 24h104c8.8 0 16 7.2 16 16v70c0 8.8-7.2 16-16 16H83l-31 22v-22H28c-8.8 0-16-7.2-16-16V40c0-8.8 7.2-16 16-16Z" fill="url(#faleioGradient)"/>
+    <path d="M47 52h52c7.7 0 14 6.3 14 14v2H66v13h38v16H66v23H47V52Z" fill="#F8FAFC"/>
+    <circle cx="124" cy="65" r="8" fill="#07111F"/>
+    <circle cx="124" cy="92" r="8" fill="#F8FAFC"/>
+  </g>
+  <text x="195" y="102" fill="#07111F" font-family="Poppins,Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-3">
+    fale<tspan fill="#4F7CFF">io</tspan>
+  </text>
+  <circle cx="464" cy="58" r="7" fill="#22D3EE"/>
+  <text x="201" y="135" fill="#64748B" font-family="Poppins,Arial,sans-serif" font-size="16" font-weight="500" letter-spacing="1.2">
+    CONVERSAS QUE CONECTAM NEGÓCIOS.
+  </text>
+</svg>
