@@ -1,0 +1,29 @@
+:root {
+  --faleio-primary: #4F7CFF;
+  --faleio-primary-rgb: 79, 124, 255;
+  --faleio-primary-hover: #6B91FF;
+  --faleio-accent: #22D3EE;
+  --faleio-accent-rgb: 34, 211, 238;
+
+  --faleio-ink: #07111F;
+  --faleio-surface: #0D1726;
+  --faleio-surface-raised: #142033;
+  --faleio-border: #26364D;
+
+  --faleio-text: #F8FAFC;
+  --faleio-text-muted: #94A3B8;
+
+  --faleio-success: #22C55E;
+  --faleio-warning: #F59E0B;
+  --faleio-danger: #EF4444;
+  --faleio-info: #38BDF8;
+
+  --faleio-radius-sm: 8px;
+  --faleio-radius: 12px;
+  --faleio-radius-lg: 18px;
+
+  --faleio-shadow: 0 24px 70px rgba(0, 0, 0, .32);
+  --faleio-focus: 0 0 0 3px rgba(var(--faleio-primary-rgb), .24);
+
+  --faleio-font: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
